@@ -1,6 +1,6 @@
 ## Hannelore Maes :smiley:
 
-#### Student at Erasmushogeschool Brussel
+#### Graduated as a developer from Erasmushogeschool Brussel (Multimedia & Creative Technologies) 
 
 :sparkles: Creativity is my passion <br/>
 :sparkles: Create mobile applications with React Native (Typescript) <br/>
