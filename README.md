@@ -19,3 +19,10 @@
 <div align="center">
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="600" height="300"/>
 </div>
+
+### 👩🏼‍💻 About Me
+
+-   ✨ Creativity is my passion <br/>
+-   💡 I am always ready and willing to learn new things and techniques <br/>
+-   🏀 Love playing basketball <br/>
+-   📕 Reading is my thing
