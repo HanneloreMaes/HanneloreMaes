@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  ![Female Avatar](https://github.com/user-attachments/assets/5a980334-c295-436d-8455-f3e39738efe0)
+  [![Female Avatar](https://raw.githubusercontent.com/HanneloreMaes/HanneloreMaes/main/assets/Avatar.gif)](https://raw.githubusercontent.com/HanneloreMaes/HanneloreMaes/main/assets/Avatar.gif)
+  <!-- ![Female Avatar](https://github.com/user-attachments/assets/5a980334-c295-436d-8455-f3e39738efe0) -->
 </div>
 
 <div id="badges" align='center'>
