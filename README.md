@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJibml0YW1wb3llaDBwNXB3Nm04bDFvN3kzZ2o2NGFrYndxNjZldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="150"/>
+  ![Female Avatar](https://github.com/user-attachments/assets/5a980334-c295-436d-8455-f3e39738efe0)
 </div>
+
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/hannelore-maes-a308791b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +18,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="600" height="300"/>
+  ![Female_Coder](https://github.com/user-attachments/assets/b9a4020a-a63b-40d8-b616-e7fdce7d4b7f)
 </div>
 
 ### 👩🏼‍💻 About Me
