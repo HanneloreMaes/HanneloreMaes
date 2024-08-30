@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  [![Female Avatar](https://raw.githubusercontent.com/HanneloreMaes/HanneloreMaes/main/assets/Avatar.gif)](https://raw.githubusercontent.com/HanneloreMaes/HanneloreMaes/main/assets/Avatar.gif)
-  <!-- ![Female Avatar](https://github.com/user-attachments/assets/5a980334-c295-436d-8455-f3e39738efe0) -->
+  <img src='https://github.com/HanneloreMaes/HanneloreMaes/blob/main/assets/Avatar.gif' alt='Female Avatar' width='150px'/>
 </div>
+
+&nbsp;
 
 <div id="badges" align='center'>
   <a href="https://www.linkedin.com/in/hannelore-maes-a308791b9/" target="_blank">
@@ -19,7 +20,7 @@
 </h1>
 
 <div align="center">
-  ![Female_Coder](https://github.com/user-attachments/assets/b9a4020a-a63b-40d8-b616-e7fdce7d4b7f)
+  <img src='https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112' alt='Female Coder' width='600px' height='400px'/>
 </div>
 
 ### 👩🏼‍💻 About Me
