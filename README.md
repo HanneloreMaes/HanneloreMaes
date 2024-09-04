@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src='https://github.com/HanneloreMaes/HanneloreMaes/blob/main/assets/Avatar.gif' alt='Female Avatar' width='150px'/>
+  <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXozODhtYzF1bXN1eGVhNzE3NjlqbGd2M3IyNmZpOGEwcG1sejJ6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8SRqnPebX1H8lQy5YR/giphy.gif' alt='Female Avatar' width='150px'/>
 </div>
 
 &nbsp;
